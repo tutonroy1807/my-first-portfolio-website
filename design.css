@@ -1,0 +1,52 @@
+body{
+    font-family: 'Signika Negative', sans-serif;
+    
+}
+
+h1{
+    font-size: 50px;
+}
+.color-world{
+    color:rgb(243, 140, 15);
+}
+.half-world{
+    width: 50%;
+    padding: 8%;
+}
+
+.flexible-container-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.bg-color{
+    margin: 10px;
+    padding: 10px;
+    font-weight: 800;
+    color:rgb(159, 15, 243);
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(7, 196, 243), tomato);
+    padding: 5px 45px;
+    border-radius: 5px;
+    font: white;
+    font-weight: 700px;
+}
+.experience-developer{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px yellowgreen;
+    border-radius: 15px;
+    font-weight: 700;
+}
+#Web{
+    border-left: 7px solid greenyellow;
+    background-color: aqua;
+
+}
+#Baby{
+    border-left: 7px solid mediumvioletred;
+    background-color: aqua;
+}
